@@ -1,0 +1,16 @@
+stage in git:
+
+working directory -> stagin area -> git directory
+
+
+working directory: tell file or folder that have changed, delete or create
+staging area: stage tell that we want to commit or save the file to git directory
+git directory: create checkpoint
+
+
+
+
+=============||===================================== 
+            9:05
+            initialize project with 
+            front & backend
