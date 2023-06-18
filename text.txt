@@ -10,7 +10,8 @@ git directory: create checkpoint
 
 
 
-=============||=====================================||======================================||
-            9:05                                   9:17
-            initialize project with               create: text.txt
-            front & backend
+master=============||=====================================||======================================||==============================
+            9:05                                   9:17                                           ||
+            initialize project with               create: text.txt                                ||
+                                                                                                  ||
+            front & backend                                                                       feature/detail-page=================
